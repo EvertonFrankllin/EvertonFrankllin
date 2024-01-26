@@ -1,4 +1,4 @@
-## Olá eu Sou o Everton Frnakllin 👋
+## Olá eu Sou o Everton Frankllin 👋
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_frankk/)
